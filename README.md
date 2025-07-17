@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yash Pandey 👋
 
-<!--
-**dataslayerYash/dataslayerYash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Weaponizing Data Science, one project at a time.**  
+Building ML models, analyzing data, deploying solutions.
 
-Here are some ideas to get you started:
+🗡️ *Mission:*  
+Become so good at Data Science, companies will pay me to stop helping their competitors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus:
+- Python & ML mastery
+- Deep Learning & CNNs
+- Real-world projects & Kaggle
+
+### 📫 Connect with me:
+- GitHub: [github.com/dataslayerYash](https://github.com/dataslayerYash)
+- LinkedIn: *[]*
+
+---

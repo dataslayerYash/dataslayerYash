@@ -12,5 +12,5 @@ Become so good at Data Science, companies will pay me to stop helping their comp
 - Real-world projects & Kaggle
 
 ### 📫 Connect with me:
-- GitHub: [dataslayerYash](https://github.com/dataslayerYash)
+- **GitHub:** [dataslayerYash](https://github.com/dataslayerYash)
 - LinkedIn: *Coming Soon*
